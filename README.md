@@ -10,11 +10,11 @@ Project based on Hospital Management using react + nodejs + mongodb
 #Instruction:
 1. Download the ZIP FILE.
 2. Extract all files from zip file.
-2. Open MongoDB Compass and start server/connection (CRED operation 
-3. Open Terminal(Linux) or CommandPrompt(Windows) and change the directory to the project folder .
-4. Type *npm install* in terminal and press enter and it takes some time to install all dependencies (All dependencies are stored in file : node_modules).
-5. Go back to the Terminal  and make sure that you are pointing inside the project folder. To open the application type *node app.js* and press Enter.
-6. The application should be live on local port 3000.
-7. Type http://localhost:3000/ into a browser. 
-8. To login use the username: admin and the password: admin.
-9. Now user should be inside the application.
+3. Open MongoDB Compass and start server/connection ( For performing CRED operation on Patients,Diseases,Rooms,Users).
+4. Open Terminal(Linux) or CommandPrompt(Windows) and change the directory to the project folder.
+5. Type *npm install* in terminal and press enter and it takes some time to install all dependencies (All dependencies are stored in file : node_modules).
+6. Go back to the Terminal  and make sure that you are pointing inside the project folder. To open the application type *node app.js* and press Enter.
+7. The application should be live on local port 3000.
+8. Type http://localhost:3000/ into a browser. 
+9. To login use the username: admin and the password: admin.
+10. Now user should be inside the application.
