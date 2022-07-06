@@ -17,4 +17,4 @@ Project based on Hospital Management using react + nodejs + mongodb
 7. The application should be live on local port 3000.
 8. Type http://localhost:3000/ into a browser. 
 9. To login use the username: admin and the password: admin.
-10. Now user able be use  the application.
+10. Now user will be able be use the application.
